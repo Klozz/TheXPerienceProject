@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <XPerienceOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <falcon>
@@ -5,4 +6,6 @@
 <DownloadUrl>
 	https://s.basketbuild.com/devs/klozz/XPerience-rom/falcon
 </DownloadUrl>
+</falcon>
 </Stable>
+</SlimOTA>
