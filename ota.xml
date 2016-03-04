@@ -2,7 +2,7 @@
 <XPerienceOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <falcon>
-                        <Filename>10.0.1_r16-20160-falcon-NIGHTLY</Filename>
+                        <Filename>10.0.1_r16-20160304-falcon-NIGHTLY</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/falcon</DownloadUrl>
         </falcon>
         <ghost>
