@@ -9,5 +9,9 @@
                         <Filename>10.0.1_r52-20160718-ghost</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/ghost</DownloadUrl>
         </ghost>
+        <lettuce>
+                        <Filename>10.0.1_r52-20160722-lettuce</Filename>
+                        <DownloadUrl>https://www.androidfilehost.com/?fid=24591000424949223</DownloadUrl>
+        </lettuce>
         </Stable>
 </XPerienceOTA>
