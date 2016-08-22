@@ -2,7 +2,7 @@
 <XPerienceOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <a5ul>
-                        <Filename>10.0.1.1_r61-20160812</Filename>
+                        <Filename>10.0.1.1_r61-20160822</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/a5ul</DownloadUrl>
         </a5ul>
         <falcon>
