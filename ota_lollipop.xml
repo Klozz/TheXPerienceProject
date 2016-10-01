@@ -3,11 +3,11 @@
         <Stable>
         <falcon>
                         <Filename>9.0.2_r1-20150224-NIGHTLY-falcon</Filename>
-                        <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/falcon</DownloadUrl>
+                        <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/falcon/9</DownloadUrl>
         </falcon>
         <ghost>
                         <Filename>9.1.1_r37-20160511-NIGHTLY-ghost</Filename>
-                        <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/ghost</DownloadUrl>
+                        <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/ghost/9</DownloadUrl>
         </ghost>
         </Stable>
 </XPerienceOTA>
