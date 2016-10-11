@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XPerienceOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-        <Stable>
+        <Nightly>
         <falcon>
                         <Filename>10.0.2_r66-20160914</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/falcon/10/</DownloadUrl>
@@ -9,6 +9,6 @@
                         <Filename>11.0.0-20161011</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/ghost/10</DownloadUrl>
         </ghost>
-        </Stable>
+        </Nightly>
 </XPerienceOTA>
 
