@@ -4,7 +4,8 @@
   "updates":
   [{"name":"xpe-11.0.0-20161023-ghost-NIGHTLY.zip",
     "version":"11.0.0-20161023-ghost-NIGHTLY.zip",
-    "size":"355","url":"https://basketbuild.com/filedl/devs?dev=klozz&dl=klozz/XPerience-rom/ghost/11/xpe-11.0.0-20161022-ghost-NIGHTLY.zip",
+    "size":"355",
+    "url":"https://basketbuild.com/filedl/devs?dev=klozz&dl=klozz/XPerience-rom/ghost/11/xpe-11.0.0-20161023-ghost-NIGHTLY.zip",
     "md5":"e5891032f9f6e119f212dbb44b44422d"
    }]
 }
