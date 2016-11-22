@@ -17,6 +17,10 @@
                         <Filename>11.0.0-20161104</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/ghost/11.1</DownloadUrl>
         </ghost>
+        <osprey>
+                        <Filename>11.0.0-20161122</Filename>
+                        <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/osprey/11.1</DownloadUrl>
+        </osprey>
         </Nightly>
 </XPerienceOTA>
 
