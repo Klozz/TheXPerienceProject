@@ -25,6 +25,10 @@
                         <Filename>11.1.0-20161129</Filename>
                         <DownloadUrl>https://s.basketbuild.com/devs/klozz/XPerience-rom/titan/11.1</DownloadUrl>
         </titan>
+        <onyx>
+                <Filename>11.1.0-20161203</Filename>
+                <DownloadUrl>https://androidfilehost.com/?w=files&flid=131655</DownloadUrl>
+        </onyx>
         </Nightly>
 </XPerienceOTA>
 
