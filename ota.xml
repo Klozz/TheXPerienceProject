@@ -6,7 +6,7 @@
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=147606</DownloadUrl>
         </addison> 
         <a5ul>
-                        <Filename>11.1.1-20170117</Filename>
+                        <Filename>11.1.1-20170124</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=130027</DownloadUrl>
         </a5ul>
         <athene>
@@ -14,7 +14,7 @@
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=137156</DownloadUrl>
         </athene>
         <falcon>
-                        <Filename>11.1.1-20170117</Filename>
+                        <Filename>11.1.1-20170124</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=137281/</DownloadUrl>
         </falcon>
         <ghost>
@@ -22,19 +22,19 @@
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=121468</DownloadUrl>
         </ghost>
         <osprey>
-                        <Filename>11.1.1-20170117</Filename>
+                        <Filename>11.1.1-20170124</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=137121</DownloadUrl>
         </osprey>
         <titan>
-                        <Filename>11.1.1-20170117</Filename>
+                        <Filename>11.1.1-20170124</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=137152</DownloadUrl>
         </titan>
         <onyx>
-                <Filename>11.1.1-20161221</Filename>
+                <Filename>11.1.1-20170101</Filename>
                 <DownloadUrl>https://androidfilehost.com/?w=files&amp;flid=131655</DownloadUrl>
         </onyx>
         <victara>
-                <Filename>11.1.1-20170117</Filename>
+                <Filename>11.1.1-20170124</Filename>
                 <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=142706</DownloadUrl>
         </victara>
         <wt88047>
@@ -42,9 +42,13 @@
                <DownloadUrl>https://androidfilehost.com/?w=files&amp;flid=145544</DownloadUrl>
          </wt88047>
         </WEEKLY>
+        
+        
+        
+        
         <STABLE>
                 <ghost>
-                        <Filename>11.0.0-20170104</Filename>
+                        <Filename>11.0.0-201701</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=121468</DownloadUrl>
                 </ghost>
         </STABLE>
