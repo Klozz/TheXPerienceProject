@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XPerienceOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-        <Nightly>
+        <NIGHTLY>
+        <addison>
+                        <Filename>11.1.1-20170124</Filename>
+                        <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=147606</DownloadUrl>
+        </addison> 
         <a5ul>
                         <Filename>11.1.1-20170117</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=130027</DownloadUrl>
@@ -37,6 +41,12 @@
                 <Filename>11.1.1-20170121</Filename>
                <DownloadUrl>https://androidfilehost.com/?w=files&amp;flid=145544</DownloadUrl>
          </wt88047>
-        </Nightly>
+        </NIGHTLY>
+        <STABLE>
+                <ghost>
+                        <Filename>11.0.0-20170104</Filename>
+                        <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=121468</DownloadUrl>
+                </ghost>
+        </STABLE>
 </XPerienceOTA>
 
