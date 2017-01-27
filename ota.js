@@ -4,11 +4,11 @@
   "response": [
     {
       "datetime": 1485153889, 
-      "filename": "lineage-14.1-20170123-nightly-athene-signed.zip", 
+      "filename": "xpe-11.1.1-20170127-addison-WEEKLY.zip", 
       "id": "5885b471a9156451add1f0e7", 
       "romtype": "nightly", 
-      "url": "https://mirrorbits.lineageos.org/full/athene/20170123/lineage-14.1-20170123-nightly-athene-signed.zip", 
-      "version": "14.1"
+      "url": "https://s.basketbuild.com/uploads/devs/klozz/XPerience-rom/addison/nightly/xpe-11.1.1-20170127-addison-WEEKLY.zip", 
+      "version": "11.1.1"
     }
   ]
 }
