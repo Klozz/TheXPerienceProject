@@ -19,6 +19,14 @@ $(document).ready(function() {
         
     });
 
+    $("#theme-slideshow").owlCarousel({
+                
+        autoPlay : 6000,
+        singleItem : true,
+        autoHeight : true
+        
+    });
+
     $("#press-slideshow").owlCarousel({      
         
         autoPlay : 6000,
