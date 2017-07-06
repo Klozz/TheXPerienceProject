@@ -783,6 +783,10 @@ select {
   z-index: 10;
   position: relative;
 }
+.list-unstyled2{padding-left:0;
+list-style:none
+}
+
 .promo .download-area .download-buttons {
   margin-bottom: 30px;
 }
