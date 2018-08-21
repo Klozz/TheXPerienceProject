@@ -24,3 +24,16 @@
 		"version": "13.0"
 	  }] 
 	} 
+ 
+ { 
+	"folders": [],
+	"files": [{
+		"file": "xperience-13.0.0-20180821-EXPERIMENTAL-addison.zip",
+		"romtype": "experimental",
+		"filesize": "589237409",
+		"filemd5": "98cdb0b2029293c434cc0cf0360f675d",
+		"fileTimestamp": 1534814360,
+		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/addison\/13\/experimental\/xperience-13.0.0-20180821-EXPERIMENTAL-addison.zip",
+		"version": "13.0"
+	  }] 
+	} 
