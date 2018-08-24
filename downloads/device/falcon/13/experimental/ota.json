@@ -24,3 +24,16 @@
 		"version": "13.0"
 	  }] 
 	} 
+ 
+ { 
+	"folders": [],
+	"files": [{
+		"file": "xperience-13.0.0-20180824-EXPERIMENTAL-falcon.zip",
+		"romtype": "experimental",
+		"filesize": "391450772",
+		"filemd5": "51a5d59a24f7d7b5d0f239b7023165e5",
+		"fileTimestamp": 1535113179,
+		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/falcon\/13\/experimental\/xperience-13.0.0-20180824-EXPERIMENTAL-falcon.zip",
+		"version": "13.0"
+	  }] 
+	} 
