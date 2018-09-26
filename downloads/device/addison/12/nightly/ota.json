@@ -7,57 +7,15 @@
 		"filemd5": "2fa63ec962af76b4a19b647a15a74d65",
 		"fileTimestamp": 1533617786,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/addison\/12\/nightly\/xperience-12.1.0-20180807-NIGHTLY-addison.zip"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
-		"file": "xperience-12.1.0-20180926-NIGHTLY-addison.zip",
-		"romtype": "nightly",
-		"filesize": "",
-		"filemd5": "",
-		"fileTimestamp": 1537920965,
-		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/addison\/12\/nightly\/xperience-12.1.0-20180926-NIGHTLY-addison.zip",
-		"version": "12.1"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
-		"file": "xperience-12.1.0-20180926-NIGHTLY-addison.zip",
-		"romtype": "nightly",
-		"filesize": "",
-		"filemd5": "",
-		"fileTimestamp": 1537921393,
-		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/addison\/12\/nightly\/xperience-12.1.0-20180926-NIGHTLY-addison.zip",
-		"version": "12.1"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
-		"file": "xperience-12.1.0-20180926-NIGHTLY-addison.zip",
-		"romtype": "nightly",
-		"filesize": "",
-		"filemd5": "",
-		"fileTimestamp": 1537922238,
-		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/addison\/12\/nightly\/xperience-12.1.0-20180926-NIGHTLY-addison.zip",
-		"version": "12.1"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
+	}
+	,
+{
 		"file": "xperience-12.1.0-20180926-NIGHTLY-addison.zip",
 		"romtype": "nightly",
 		"filesize": "778397370",
 		"filemd5": "af4b288b0b7757bd634bc636fd835214",
 		"fileTimestamp": 1537924765,
-		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/addison\/12\/nightly\/xperience-12.1.0-20180926-NIGHTLY-addison.zip",
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/addison\/12\/nightly\/xperience-12.1.0-20180926-NIGHTLY-addison.zip",
 		"version": "12.1"
 	  }] 
-	} 
+} 
