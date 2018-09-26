@@ -4,43 +4,13 @@
 	"files": [{
 		"file": "xperience-13.0.0-20180907-NIGHTLY-titan.zip",
 		"romtype": "nightly",
-		"filesize": "",
-		"filemd5": "",
-		"fileTimestamp": 1536284465,
-		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20180907-NIGHTLY-titan.zip",
-		"version": "13.0"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
-		"file": "xperience-13.0.0-20180907-NIGHTLY-titan.zip",
-		"romtype": "nightly",
-		"filesize": "",
-		"filemd5": "",
-		"fileTimestamp": 1536290339,
-		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20180907-NIGHTLY-titan.zip",
-		"version": "13.0"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
-		"file": "xperience-13.0.0-20180907-NIGHTLY-titan.zip",
-		"romtype": "nightly",
 		"filesize": "428582727",
 		"filemd5": "188dcc2f7deea9466e73b5affaadfec9",
 		"fileTimestamp": 1536290934,
 		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20180907-NIGHTLY-titan.zip",
 		"version": "13.0"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
+	},
+	{ 
 		"file": "xperience-13.0.0-20180917-NIGHTLY-titan.zip",
 		"romtype": "nightly",
 		"filesize": "",
@@ -48,12 +18,8 @@
 		"fileTimestamp": 1537201802,
 		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20180917-NIGHTLY-titan.zip",
 		"version": "13.0"
-	  }] 
-	} 
- 
- { 
-	"folders": [],
-	"files": [{
+	},
+	{ 
 		"file": "xperience-13.0.0-20180924-NIGHTLY-titan.zip",
 		"romtype": "nightly",
 		"filesize": "429497166",
@@ -61,5 +27,5 @@
 		"fileTimestamp": 1537771989,
 		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20180924-NIGHTLY-titan.zip",
 		"version": "13.0"
-	  }] 
-	} 
+	  }
+ ]} 
