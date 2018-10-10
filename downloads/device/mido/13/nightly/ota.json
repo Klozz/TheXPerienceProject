@@ -28,4 +28,14 @@
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/mido\/13\/nightly\/xperience-13.0.0-20181003-NIGHTLY-mido.zip",
 		"version": "13.0"
 	} 
- ]}
+ ]}	},
+	{
+		"file": "xperience-13.0.0-20181010-NIGHTLY-mido.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "637288075",
+		"filemd5": "09c7ca4471d280d02ab14257dd790bce",
+		"fileTimestamp": 1539187224,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/mido\/13\/nightly\/xperience-13.0.0-20181010-NIGHTLY-mido.zip",
+		"version": "13.0"
+	} 
+ ]} 
