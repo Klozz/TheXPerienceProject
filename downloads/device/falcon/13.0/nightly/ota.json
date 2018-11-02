@@ -27,5 +27,14 @@
 		"fileTimestamp": 1539241183,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/falcon\/13\/nightly\/xperience-13.0.0-20181011-NIGHTLY-falcon.zip",
 		"version": "13.0"
-	} 
+	},
+	{
+		"file": "xperience-13.0.0-20181102-NIGHTLY-falcon.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "376345768",
+		"filemd5": "06b141fb5c50a71b76851fc784e323ad",
+		"fileTimestamp": 1541138111,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/falcon\/13\/nightly\/xperience-13.0.0-20181102-NIGHTLY-falcon.zip",
+		"version": "13.0"
+	}
  ]}
