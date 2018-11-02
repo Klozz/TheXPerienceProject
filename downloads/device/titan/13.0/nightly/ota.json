@@ -27,5 +27,14 @@
 		"fileTimestamp": 1537771989,
 		"filelink": "https:\/\/basketbuild.com\/filedl\/devs?dev=klozz\u0026dl=klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20180924-NIGHTLY-titan.zip",
 		"version": "13.0"
-	  }
+	},
+	{
+		"file": "xperience-13.0.0-20181102-NIGHTLY-titan.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "430459120",
+		"filemd5": "cc2ae9ba95d406ece4f50af88b00c9b2",
+		"fileTimestamp": 1541139834,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/titan\/13\/nightly\/xperience-13.0.0-20181102-NIGHTLY-titan.zip",
+		"version": "13.0"
+	}
  ]}
