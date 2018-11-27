@@ -138,5 +138,14 @@
 		"fileTimestamp": 1542435452,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/land\/13\/nightly\/xperience-13.0.0-20181117-NIGHTLY-land.zip",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20181127-NIGHTLY-land.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "625427296",
+		"filemd5": "f04008b888c39ad3cd65c86ab3c4baef",
+		"fileTimestamp": 1543279601,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/land\/13\/nightly\/xperience-13.0.0-20181127-NIGHTLY-land.zip",
+		"version": "13.0"
 	}
  ]}
