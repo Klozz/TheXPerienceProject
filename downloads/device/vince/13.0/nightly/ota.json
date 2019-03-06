@@ -108,5 +108,14 @@
 		"fileTimestamp": 1551433123,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/vince\/13\/nightly\/xperience-13.0.0-20190301-NIGHTLY-vince.zip",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20190306-NIGHTLY-vince.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "666802930",
+		"filemd5": "b58e5c20e70beeb1d612689f20478308",
+		"fileTimestamp": 1551855445,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/vince\/13\/nightly\/xperience-13.0.0-20190306-NIGHTLY-vince.zip",
+		"version": "13.0"
 	}
  ]}
