@@ -153,5 +153,14 @@
 		"fileTimestamp": 1558830742,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/whyred\/13\/nightly\/xperience-13.0.0-20190526-NIGHTLY-whyred.zip",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20190531-NIGHTLY-whyred.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "803698407",
+		"filemd5": "a189e5df262b88426883135fa4a5ac47",
+		"fileTimestamp": 1559316801,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/whyred\/13\/nightly\/xperience-13.0.0-20190531-NIGHTLY-whyred.zip",
+		"version": "13.0"
 	}
  ]}
