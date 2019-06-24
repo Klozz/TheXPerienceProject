@@ -270,5 +270,23 @@
 		"fileTimestamp": 1560818408,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/addison\/13\/nightly\/xperience-13.0.0-20190618-NIGHTLY-addison.zip",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20190624-NIGHTLY-addison.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "",
+		"filemd5": "",
+		"fileTimestamp": 1561338921,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/addison\/13\/nightly\/xperience-13.0.0-20190624-NIGHTLY-addison.zip",
+		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20190624-NIGHTLY-addison.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "748234980",
+		"filemd5": "6a168bd39179e6d8d3b3e1864e106ffd",
+		"fileTimestamp": 1561342745,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/addison\/13\/nightly\/xperience-13.0.0-20190624-NIGHTLY-addison.zip",
+		"version": "13.0"
 	}
  ]}
