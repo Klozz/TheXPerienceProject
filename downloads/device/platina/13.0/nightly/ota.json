@@ -63,5 +63,14 @@
 		"fileTimestamp": 1561969637,
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/platina\/13\/nightly\/xperience-13.0.0-20190701-NIGHTLY-platina.zip",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20190703-NIGHTLY-platina.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "816139193",
+		"filemd5": "d06a3802a6a9bc034a630982cc965d73",
+		"fileTimestamp": 1562170681,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/platina\/13\/nightly\/xperience-13.0.0-20190703-NIGHTLY-platina.zip",
+		"version": "13.0"
 	}
  ]}
