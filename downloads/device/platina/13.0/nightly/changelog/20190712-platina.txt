@@ -1,0 +1,62 @@
+====================
+     2019-07-12
+====================
+
+   * frameworks/base/
+4bb1d4c  frameworks: Add unlinked ringtone and notification volumes  [Adnan Begovic]
+2eeb820  The surface hang up when screen on and screen off  [Guo Li]
+620a0d2  Implement expanded desktop feature  [Kyrylo Mikos]
+
+   * packages/apps/Settings/
+589ede8  still needs more work Revert "intelligent backlight [2/3]"  [klozz]
+
+
+====================
+     2019-07-11
+====================
+
+   * packages/apps/Settings/
+7d93c1f  intelligent backlight [2/3] 1 is the app  [klozz]
+
+
+====================
+     2019-07-10
+====================
+
+   * bootable/recovery/
+d8ce8c6  recovery: updater: Fix SymlinkFn args  [Stricted]
+422b2ba  uncrypt: write permission for f2fs_pin_file  [Jaegeuk Kim]
+c6aa0fe  uncrypt: fix f2fs ioctl argument for pin_file  [Jaegeuk Kim]
+86fbd41  f2fs: support f2fs by setting unmovable bit for package file  [Jaegeuk Kim]
+e8082e0  Revert "f2fs: support f2fs by setting unmovable bit for package file"  [Luca Stefani]
+
+   * device/xperience/sepolicy/
+2919d55   fix OTA auto-flashing with encrypted/unencrypted f2fs originally based on https://review.lineageos.org/c/LineageOS/android_device_oneplus_oneplus3/+/247310  [klozz]
+
+
+====================
+     2019-07-09
+====================
+
+   * frameworks/base/
+e4c7e36  fmw: fix build  [klozz]
+b39460c  base: Import Android Q activity animations  [Lucchetto]
+32793c3  PowerManager: Don't bother devices not using wait for MPCTL  [Shubham Singh]
+4d317d8  PerformanceManager: Allow wait for MPCTL to start on boot  [dianlujitao]
+cd2ffaf  base: Use wireless charging animation for wired charging too  [Anushek Prasal]
+3c8c36b  Fix Cannot grant system fixed permission  [Illia Poplawski]
+d071b54  Pocket lock improvements  [Henrique Silva]
+7efcfdf  pocket: Don't show immersive mode confirmation when UI showing  [Henrique Silva]
+
+   * vendor/xperience/
+3fefcf8  perf: fix Multiple patterns  [klozz]
+
+
+====================
+     2019-07-08
+====================
+
+   * device/qcom/common/
+dfbfb1a  post_boot:xperience: change configurations for msm8226 (aka falcon) and utilice intellidemand lz4 in zram and more...  [klozz]
+
+
