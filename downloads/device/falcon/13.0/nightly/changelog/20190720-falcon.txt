@@ -1,0 +1,33 @@
+====================
+     2019-07-20
+====================
+
+   * frameworks/base/
+fe316bb  statusbar: Set view to gone when hidden  [Willi Ye]
+a02735b  base: Redo expanded volume panel for 9.x  [HrX03]
+7bafa93  SystemUI: allow devices override audio panel location  [a.derendyaev]
+08c390f  Revert "dd"  [klozz]
+f1b1e87  dd  [klozz]
+e05c3d0  Revert "Implement expanded desktop feature"  [klozz]
+
+
+====================
+     2019-07-19
+====================
+
+
+====================
+     2019-07-18
+====================
+
+
+====================
+     2019-07-17
+====================
+
+
+====================
+     2019-07-16
+====================
+
+
