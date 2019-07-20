@@ -119,5 +119,15 @@
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/platina\/13\/nightly\/xperience-13.0.0-20190713-NIGHTLY-platina.zip",
 		"version": "13.0",
              "changelog": "https://raw.githubusercontent.com/Klozz/TheXPerienceProject/gh-pages/downloads/device/platina/13.0/nightly/changelog/20190713-platina.txt"
+	},
+	{
+		"file": "xperience-13.0.0-20190720-NIGHTLY-platina.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "",
+		"filemd5": "",
+		"fileTimestamp": 1563608122,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/platina\/13\/nightly\/xperience-13.0.0-20190720-NIGHTLY-platina.zip",
+		"version": "13.0",
+             "changelog": "https://raw.githubusercontent.com/Klozz/TheXPerienceProject/gh-pages/downloads/device/platina/13.0/nightly/changelog/20190720-platina.txt"
 	}
  ]}
