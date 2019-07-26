@@ -1,0 +1,36 @@
+====================
+     2019-07-26
+====================
+
+
+====================
+     2019-07-25
+====================
+
+   * vendor/qcom/opensource/commonsys/fm/
+40f675a  fix extraneus endif  [klozz]
+
+
+====================
+     2019-07-24
+====================
+
+   * hardware/moto/sensors/
+44f606f  fix build with VNDK=current  [klozz]
+
+   * hardware/qcom/audio/msm8996/
+b8ce96a  hal: spkr_protection: compilation error fixes with the vndk  [Vladimir Oltean]
+1d16e7f  audio_extn: Fix unused parameter warning in utils.c  [codeworkx]
+0a55dae  audio_extn: Add missing pthread.h includes  [Rashed Abdel-Tawab]
+
+
+====================
+     2019-07-23
+====================
+
+
+====================
+     2019-07-22
+====================
+
+
