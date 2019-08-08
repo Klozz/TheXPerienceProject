@@ -1,0 +1,32 @@
+====================
+     2019-08-08
+====================
+
+
+====================
+     2019-08-07
+====================
+
+
+====================
+     2019-08-06
+====================
+
+
+====================
+     2019-08-05
+====================
+
+   * frameworks/av/
+c01f05a  Revert "audio: Audio resampler support for playback"  [klozz]
+5f4fb3a  Revert "media:libaudioprocessing: don't call proprietary libqct_resampler"  [klozz]
+
+
+====================
+     2019-08-04
+====================
+
+   * frameworks/av/
+3bce856  media:libaudioprocessing: don't call proprietary libqct_resampler we haven't source of that  [klozz]
+
+

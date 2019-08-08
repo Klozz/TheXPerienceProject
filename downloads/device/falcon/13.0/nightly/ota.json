@@ -130,5 +130,15 @@
 		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/falcon\/13\/nightly\/xperience-13.0.0-20190802-NIGHTLY-falcon.zip",
 		"version": "13.0",
       "changelog": "https://raw.githubusercontent.com/Klozz/TheXPerienceProject/gh-pages/downloads/device/falcon/13.0/nightly/changelog/20190802-falcon.txt"
+	},
+	{
+		"file": "xperience-13.0.0-20190808-NIGHTLY-falcon.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "375471225",
+		"filemd5": "946359a5d840048cc96387f4a8215228",
+		"fileTimestamp": 1565255198,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/falcon\/13\/nightly\/xperience-13.0.0-20190808-NIGHTLY-falcon.zip",
+		"version": "13.0",
+      "changelog": "https://raw.githubusercontent.com/Klozz/TheXPerienceProject/gh-pages/downloads/device/falcon/13.0/nightly/changelog/20190808-falcon.txt"
 	}
  ]}
