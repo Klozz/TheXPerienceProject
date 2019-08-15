@@ -1,0 +1,205 @@
+====================
+     2019-08-15
+====================
+
+
+====================
+     2019-08-14
+====================
+
+
+====================
+     2019-08-13
+====================
+
+
+====================
+     2019-08-12
+====================
+Interrupted - terminating the pool
+====================
+     2019-08-15
+====================
+
+   * vendor/qcom/opensource/commonsys-intf/display/
+21bdf1a  libdisplayconfig: update flags to add cflag -DDISPLAY_CONFIG_1_4  [klozz]
+
+
+====================
+     2019-08-14
+====================
+
+   * art/
+5581769  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * bionic/
+da43403  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * bootable/recovery/
+1d695fd  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * build/make/
+b39be63  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * build/soong/
+dfd9321  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * development/
+fec3eb3  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * device/qcom/common/
+7506b8e  postboot: fix blank spaces  [klozz]
+bd4b004  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * device/qcom/sepolicy/
+41e81a7  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * external/e2fsprogs/
+e7b346d  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * external/selinux/
+0bc0f54  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * frameworks/av/
+190d96e  Revert "audio: Audio resampler support for playback"  [klozz]
+d6405ce  Revert "media:libaudioprocessing: don't call proprietary libqct_resampler"  [klozz]
+84204c5  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * frameworks/base/
+95c4ae3  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * frameworks/native/
+83f0c67  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * frameworks/opt/net/wifi/
+1cda651  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * frameworks/opt/telephony/
+40346cc  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/interfaces/
+85da19d  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/libhardware/
+1521eef  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/libhardware_legacy/
+18f5379  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/qcom/bootctrl/
+68c8d67  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/qcom/bt/
+602592a  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/qcom/display/msm8996/
+9a70683  libdisplayconfg¿ig: make inline with caf changes in commonsys-intf/display  [klozz]
+
+   * hardware/qcom/wlan/
+55d1be2  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * hardware/ril/
+a53199f  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * libcore/
+519e70d  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/apps/CarrierConfig/
+16f30ee  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/apps/Launcher3/
+7798c21  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/apps/Settings/
+50c9f5d  Merge remote-tracking branch 'xpe/xpe-13.0-caf' into xpe-13.0-caf  [klozz]
+7080127  Revert "intelligent backlight [2/3]" meh im lazy to finish this feature  [klozz]
+ba9459f  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/providers/DownloadProvider/
+d68c688  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/providers/MediaProvider/
+64463ec  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/services/Telecomm/
+78b5095  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * packages/services/Telephony/
+9f82c11  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * system/bt/
+b41f749  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * system/core/
+385dff6  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0  [klozz]
+
+   * system/sepolicy/
+0d9eb7e  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * system/tools/hidl/
+1a4e10b  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * system/tpm/
+f6b54a2  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * system/update_engine/
+0af0448  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * system/vold/
+ddf1d25  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/codeaurora/commonsys/telephony/
+32e3568  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/commonsys-intf/display/
+6e8aff4  displlay-intf: Add guard update to support older HAL's  [klozz]
+ffd7b2a  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/commonsys/bluetooth/
+1c8dfdf  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/commonsys/bluetooth_ext/
+7860cef  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/commonsys/cryptfs_hw/
+3844b21  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/commonsys/fm/
+a2fbae6  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/commonsys/system/bt/
+b05b128  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/core-utils/
+4d9bbc6  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/data-ipa-cfg-mgr/
+0dba26f  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/qcom/opensource/power/
+ba7a0ed  Merge tag 'LA.UM.7.1.r1-15800-sm8150.0' into xpe-13.0-caf  [klozz]
+
+   * vendor/xperience/
+55c8f56  update to new branch  [klozz]
+
+
+====================
+     2019-08-13
+====================
+   * android/
+9e5b1f3  manifest: Upgrade to LA.UM.7.1.r1-15800-sm8150.0  [Park Ju Hyung]
+
+   * vendor/qcom/sdclang-6.0/linux-x86/
+65db35c  Import stripped SDClang 6.0.8  [Jake Weinstein]
+
+
+====================
+     2019-08-12
+====================
+
+
+====================
+     2019-08-11
+====================
+
+
