@@ -11,21 +11,13 @@
 		"version": "13.0"
 	},
 	{
-		"file": "xperience-13.0.0-20190625-NIGHTLY-lavender.zip",
+		"file": "xperience-13.0.0-20190816-NIGHTLY-lavender.zip",
 		"romtype": "NIGHTLY",
-		"filesize": "849298010",
-		"filemd5": "f360a7d1736ce83d2d35d42067f9daee",
-		"fileTimestamp": 1561436856,
-		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/lavender\/13\/nightly\/xperience-13.0.0-20190625-NIGHTLY-lavender.zip",
-		"version": "13.0"
-	},
-	{
-		"file": "xperience-13.0.0-20190630-NIGHTLY-lavender.zip",
-		"romtype": "NIGHTLY",
-		"filesize": "853689833",
-		"filemd5": "6b879ee164fad60385df30523e9647ee",
-		"fileTimestamp": 1561900845,
-		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/lavender\/13\/nightly\/xperience-13.0.0-20190630-NIGHTLY-lavender.zip",
-		"version": "13.0"
+		"filesize": "843969635",
+		"filemd5": "a199485fe903242ee717ddb92934d9b2",
+		"fileTimestamp": 1565918879,
+		"filelink": "https:\/\/basketbuild.com\/uploads\/devs\/klozz\/XPerience-rom\/lavender\/13\/nightly\/xperience-13.0.0-20190816-NIGHTLY-lavender.zip",
+		"version": "13.0",
+      "changelog": "https://raw.githubusercontent.com/Klozz/TheXPerienceProject/gh-pages/downloads/device/lavender/13.0/nightly/changelog/20190816-lavender.txt"
 	}
  ]}
