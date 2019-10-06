@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "641986163",
+		"filemd5": "bd9aa0c06ca2ef98c2524ae8b03aaf0d",
+		"fileTimestamp": 1570405660,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/rosy/13/nightly/xperience-13.0.0-20191006-NIGHTLY-rosy.zip/download",
+		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20191006-NIGHTLY-rosy.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "641986163",
+		"filemd5": "bd9aa0c06ca2ef98c2524ae8b03aaf0d",
+		"fileTimestamp": 1570405660,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/rosy/13/nightly/xperience-13.0.0-20191006-NIGHTLY-rosy.zip/download",
+		"version": "13.0"
+	}
+ ]}
