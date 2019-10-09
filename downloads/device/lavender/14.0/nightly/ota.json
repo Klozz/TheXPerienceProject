@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "927660707",
+		"filemd5": "2f811ed173ade019ea0a41e90a50e30f",
+		"fileTimestamp": 1570616691,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20191009-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20191009-NIGHTLY-lavender-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "927660707",
+		"filemd5": "2f811ed173ade019ea0a41e90a50e30f",
+		"fileTimestamp": 1570616691,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20191009-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
