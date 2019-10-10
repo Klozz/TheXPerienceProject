@@ -18,5 +18,14 @@
 		"fileTimestamp": 1570405660,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/rosy/13/nightly/xperience-13.0.0-20191006-NIGHTLY-rosy.zip/download",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20191010-NIGHTLY-rosy.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "641985843",
+		"filemd5": "0b493fa5f2381ef370f902bde14045d8",
+		"fileTimestamp": 1570695298,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/rosy/13/nightly/xperience-13.0.0-20191010-NIGHTLY-rosy.zip/download",
+		"version": "13.0"
 	}
  ]}
