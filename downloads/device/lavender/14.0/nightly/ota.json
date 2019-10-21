@@ -58,42 +58,6 @@
 	{
 		"file": "xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip",
 		"romtype": "NIGHTLY",
-		"filesize": "919117098",
-		"filemd5": "85c8b3fe57761fa8a7fea8949ed24aaf",
-		"fileTimestamp": 1571633843,
-		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
-		"version": "14.0"
-	},
-	{
-		"file": "xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip",
-		"romtype": "NIGHTLY",
-		"filesize": "919117098",
-		"filemd5": "85c8b3fe57761fa8a7fea8949ed24aaf",
-		"fileTimestamp": 1571637893,
-		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
-		"version": "14.0"
-	},
-	{
-		"file": "xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip",
-		"romtype": "NIGHTLY",
-		"filesize": "919117098",
-		"filemd5": "85c8b3fe57761fa8a7fea8949ed24aaf",
-		"fileTimestamp": 1571638218,
-		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
-		"version": "14.0"
-	},
-	{
-		"file": "xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip",
-		"romtype": "NIGHTLY",
-		"filesize": "919117098",
-		"filemd5": "85c8b3fe57761fa8a7fea8949ed24aaf",
-		"fileTimestamp": 1571638355,
-		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
-		"version": "14.0"
-	},
-	{
-		"file": "xperience-14.0.0-20191021-NIGHTLY-lavender-Quetzalcoatlite.zip",
-		"romtype": "NIGHTLY",
 		"filesize": "919326477",
 		"filemd5": "4acb3d259bbe71c363425783a9a78815",
 		"fileTimestamp": 1571639353,
