@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "640422516",
+		"filemd5": "911316b7e87003aef9ddddde2980125c",
+		"fileTimestamp": 1577611555,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/raphael/14/nightly/xperience-14.0.0-20191229-NIGHTLY-raphael-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20191229-NIGHTLY-raphael-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "640422516",
+		"filemd5": "911316b7e87003aef9ddddde2980125c",
+		"fileTimestamp": 1577611555,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/raphael/14/nightly/xperience-14.0.0-20191229-NIGHTLY-raphael-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
