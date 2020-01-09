@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "723231093",
+		"filemd5": "d6716352cfdc22e49e35344631f8d953",
+		"fileTimestamp": 1578609422,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/addison/14/nightly/xperience-14.0.0-20200109-NIGHTLY-addison-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200109-NIGHTLY-addison-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "723231093",
+		"filemd5": "d6716352cfdc22e49e35344631f8d953",
+		"fileTimestamp": 1578609422,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/addison/14/nightly/xperience-14.0.0-20200109-NIGHTLY-addison-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
