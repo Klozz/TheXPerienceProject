@@ -1,0 +1,14 @@
+
+{
+  "kernel": {
+    "name": "Yuki Kernel",
+    "version": "v2.0β",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/ginkgo/4.14.163-Yuki-Kernel-Redmi-Note-8-2020-01-10.zip/download",
+    "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/ginkgo/kernel/changelog.txt",
+    "date": "2020-01-10",
+    "sha1sum": "16aa7bdecb1ec581fbbf1fb622ec4e2d1df0d955"
+  },
+  "support": {
+    "link": "https://t.me/Yuki_Kernel"
+  }
+}
