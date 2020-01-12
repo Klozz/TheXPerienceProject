@@ -419,3 +419,14 @@
 		"version": "13.0"
 	}
  ]}
+	},
+	{
+		"file": "xperience-13.0.0-20200112-NIGHTLY-addison.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "815048622",
+		"filemd5": "aebca75f22bff028ee744c96bedc3ac3",
+		"fileTimestamp": 1578818012,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/addison/13/nightly/xperience-13.0.0-20200112-NIGHTLY-addison.zip/download",
+		"version": "14.0"
+	}
+ ]}
