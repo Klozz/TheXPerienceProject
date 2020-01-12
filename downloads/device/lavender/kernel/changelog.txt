@@ -1,6 +1,13 @@
-- ANDROID: sdcardfs: Add sandbox 
-- ANDROID: sdcardfs: Add option to not link obb
-- ANDROID: sdcardfs: Add option to drop unused dentries
-- fs: sdcardfs: Add missing option to show_options
-- sdcardfs: Fix the format prints in sdcardfs
- --Those changes should fix the obb migration(deletion) when you use a kernel from LA.UM.8.xxx Branch --
+- proc: faster /proc/cmdline
+- procfs: optimize seq_pad() to speed up /proc/pid/maps
+- block: replace io_schedule with io_schedule_timeout
+- arm64: crypto: add NEON accelerated XOR implementation
+- arm64: crc32: always assume ARM64_HAS_CRC32
+- lib/crc32.c: mark crc32_le_base/__crc32c_le_base aliases as __pure
+- lib/crc32: make core crc32() routines weak so they can be overridden
+- arm64/lib: improve CRC32 performance for deep pipelines
+- arm64/lib: add accelerated crc32 routines
+- arm64: lse: Pass -fomit-frame-pointer to out-of-line ll/sc atomics
+- arm64: support __int128
+- arm64: Implement __lshrti3 library function
+- arm64: make label allocation style consistent in tishift
