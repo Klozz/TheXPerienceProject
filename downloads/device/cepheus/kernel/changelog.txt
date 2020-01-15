@@ -1,5 +1,2 @@
-- Add Sound control (WIP Test and report )
-- Removed Speaker Audio control
-- Enabled ULPS
-- Enable support for ULPS mode for panels during suspend state.
-- Disable GPU wake on touch events
+- Merge tag 'v4.14.164'
+- Merge tag 'v4.14.165'
