@@ -1,13 +1,3 @@
-- proc: faster /proc/cmdline
-- procfs: optimize seq_pad() to speed up /proc/pid/maps
-- block: replace io_schedule with io_schedule_timeout
-- arm64: crypto: add NEON accelerated XOR implementation
-- arm64: crc32: always assume ARM64_HAS_CRC32
-- lib/crc32.c: mark crc32_le_base/__crc32c_le_base aliases as __pure
-- lib/crc32: make core crc32() routines weak so they can be overridden
-- arm64/lib: improve CRC32 performance for deep pipelines
-- arm64/lib: add accelerated crc32 routines
-- arm64: lse: Pass -fomit-frame-pointer to out-of-line ll/sc atomics
-- arm64: support __int128
-- arm64: Implement __lshrti3 library function
-- arm64: make label allocation style consistent in tishift
+-- HOTFIX --
+- Revert "ALSA: pcm: Avoid possible info leaks from PCM stream buffers"
+This should fix Reboots when you enable mic on Call Of Duty, and other games
