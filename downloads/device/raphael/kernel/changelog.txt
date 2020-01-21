@@ -1,2 +1,4 @@
-- Merge tag 'v4.14.164'
-- Merge tag 'v4.14.165'
+- Merge tag 'LA.UM.8.1.r1-13500-sm8150.0'
+- Upstream to v4.14.166
+- msm: vidc: fix memory leak when set color format
+- ARM: dts: msm: Increase size of event ring 6 on msmnile
