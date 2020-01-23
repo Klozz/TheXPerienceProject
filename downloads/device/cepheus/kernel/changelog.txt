@@ -1,6 +1,5 @@
 - ARM64: configs: Disable redundant Spectre variant 2 mitigations
   * Following kdrag0n information
-- Optimize for sm8150's Kryo 485 CPU setup
 - Don't clear dim layer settings if there are none
 - Cache register values when performing clock control
 - sm8150: Set GPU idle timeout to 64 ms
