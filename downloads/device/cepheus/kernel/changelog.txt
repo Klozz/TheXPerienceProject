@@ -1,4 +1,8 @@
-- Merge tag 'LA.UM.8.1.r1-13500-sm8150.0'
-- Upstream to v4.14.166
-- msm: vidc: fix memory leak when set color format
-- ARM: dts: msm: Increase size of event ring 6 on msmnile
+- ARM64: configs: Disable redundant Spectre variant 2 mitigations
+  * Following kdrag0n information
+- Optimize for sm8150's Kryo 485 CPU setup
+- Don't clear dim layer settings if there are none
+- Cache register values when performing clock control
+- sm8150: Set GPU idle timeout to 64 ms
+- Updated Anykernel3 so not need to flash magisk before or after flash the kernel
+- Fix boot issues in some Custom roms
