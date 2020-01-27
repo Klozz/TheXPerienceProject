@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v3.9β",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/cepheus/4.14.166-Yuki-Kernel-Mi-9-2020-01-23.zip/download",
+    "version": "v4Δ",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/cepheus/4.14.167-Yuki-Kernel-Mi-9-2020-01-27.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/cepheus/kernel/changelog.txt",
-    "date": "2020-01-23",
-    "sha1sum": "f10a65881aaacdff05d14b1f5d364d6bab7f0275"
+    "date": "2020-01-27",
+    "sha1sum": "69828e5b544b4c715e1b215fc54786628096846c"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
