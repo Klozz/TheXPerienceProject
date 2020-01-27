@@ -1,3 +1,2 @@
--- HOTFIX --
-- Revert "ALSA: pcm: Avoid possible info leaks from PCM stream buffers"
-This should fix Reboots when you enable mic on Call Of Duty, and other games
+- Upstreamed to 4.4.211
+- Updated Anykernel3 so not need to flash magisk before or after flash the kernel
