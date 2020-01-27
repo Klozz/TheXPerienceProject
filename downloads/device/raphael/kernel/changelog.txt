@@ -1,6 +1,1 @@
-- ARM64: configs: Disable redundant Spectre variant 2 mitigations
-  * Following kdrag0n information
-- Don't clear dim layer settings if there are none
-- Cache register values when performing clock control
-- sm8150: Set GPU idle timeout to 64 ms
-- Updated Anykernel3 so not need to flash magisk before or after flash the kernel
+- Upstreamed to 4.14.167
