@@ -3,10 +3,10 @@
   "kernel": {
     "name": "Yuki Kernel",
     "version": "v0.1α",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/fajita/4.9.194-Yuki-Kernel-Oneplus6/6T-2020-02-01.zip/download",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/fajita/4.9.194-Yuki-Kernel-Oneplus6-6T-2020-02-01.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/fajita/kernel/changelog.txt",
     "date": "2020-02-01",
-    "sha1sum": ""
+    "sha1sum": "58b7e0a925a69df191eefbbd003a268"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
