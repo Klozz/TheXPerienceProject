@@ -1,1 +1,3 @@
-- Upstreamed to 4.14.167
+- GPU Overclock up to 825Mhz (WIP)
+- DDR up to 2130
+- bugfixes
