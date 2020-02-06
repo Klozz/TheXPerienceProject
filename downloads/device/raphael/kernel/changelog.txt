@@ -1,3 +1,4 @@
-- GPU Overclock up to 825Mhz (WIP)
-- DDR up to 2130
-- bugfixes
+- Merge tag 'v4.14.168'
+- Merge tag 'v4.14.169'
+- Merge tag 'v4.14.170
+- force google hotword Should fix ok google (?)
