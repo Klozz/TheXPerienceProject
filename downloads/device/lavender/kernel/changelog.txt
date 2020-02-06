@@ -1,2 +1,2 @@
-- Upstreamed to 4.4.211
-- Updated Anykernel3 so not need to flash magisk before or after flash the kernel
+- Merge tag 'v4.4.212'
+- Merge tag 'v4.4.213'
