@@ -36,5 +36,14 @@
 		"fileTimestamp": 1579064703,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/cepheus/14/nightly/xperience-14.0.0-20200115-NIGHTLY-cepheus-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200209-NIGHTLY-cepheus-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "953062638",
+		"filemd5": "d13ae22024c7f1cc0e2a3b6ef0ffe450",
+		"fileTimestamp": 1581260313,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/cepheus/14/nightly/xperience-14.0.0-20200209-NIGHTLY-cepheus-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
