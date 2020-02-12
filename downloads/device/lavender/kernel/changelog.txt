@@ -1,2 +1,11 @@
-- Merge tag 'v4.4.212'
-- Merge tag 'v4.4.213'
+- Merge tag 'LA.UM.7.2.r1-08200-sdm660.0'
+- msm: vidc: avoid OOB write while accessing memory
+- msm: vidc: remove additional checks in response_handler
+- asoc: msm-compress: Replace goto with return in case of invalid value
+- asoc: msm-compress: Add lock in controls _put() and _get() callback
+- ANDROID: sdcardfs: Change current->fs under lock
+- msm: pcie: Use local variable for manipulation
+- Merge tag LA.UM.7.2.r3-00400-sdm660.0"
+- Merge tag LA.UM.7.2.r1-08200-sdm660.0 on qcacld-3.0
+- Merge tag 'LA.UM.7.2.r1-08200-sdm660.0' on qca-wifi-host-cmn
+- Merge tag 'LA.UM.7.2.r1-08200-sdm660.0' on fw-api
