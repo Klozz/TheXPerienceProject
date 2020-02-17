@@ -2,6 +2,5 @@
 - Merge tag 'LA.UM.8.9.r1-08100-SM6xx.0'
 - Merge qcacld-3.0 tag 'LA.UM.8.1.r1-14300-sm8150.0'
 - Merge tag 'LA.UM.8.1.r1-14300-sm8150.0' in thechpack
-- W.I.P Sound Control speaker bits
 - Enable hid generic
 - Enable KPTI on sm8150 is needed as part of android CTS
