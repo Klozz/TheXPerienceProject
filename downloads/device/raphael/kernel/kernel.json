@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v4Δ",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/raphael/4.14.170-Yuki-Kernel-Redmi-K20-PRO-Mi-9T-PRO-YUKI-PREMIUM-EDITION-2020-02-06.zip/download",
+    "version": "v5Δ",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/raphael/4.14.170-Yuki-Kernel-Redmi-K20-PRO-Mi-9T-PRO-2020-02-17.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/raphael/kernel/changelog.txt",
-    "date": "2020-02-06",
-    "sha1sum": "96eb2c61c0d0994c40f7b16675407f9e4d568c3b"
+    "date": "2020-02-17",
+    "sha1sum": "b04f62035a12ebe23918cccf398aefa44f13f7bb"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
