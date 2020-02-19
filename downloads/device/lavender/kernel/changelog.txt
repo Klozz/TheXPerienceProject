@@ -4,3 +4,4 @@
 - sched: limit task iterations
 - fix power service version from libpowermgr
 - Upstream to 4.4.214
+- Enable advanced tcp 
