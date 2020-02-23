@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v1.0α",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/davinci/4.14.117-Yuki-Kernel-Redmi-K20-Mi-9T-2020-02-22.zip/download",
+    "version": "v1.1α",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/davinci/4.14.117-Yuki-Kernel-Redmi-K20-Mi-9T-2020-02-23.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/davinci/kernel/changelog.txt",
-    "date": "2020-02-22",
-    "sha1sum": "21dffe8c342ea888ca7d52b0d2594aa7cc9cc204"
+    "date": "2020-02-23",
+    "sha1sum": "d226e83e96d04f70cff01b1bc812d1c94a722af4"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"

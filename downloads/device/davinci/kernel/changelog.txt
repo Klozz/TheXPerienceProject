@@ -1,7 +1,3 @@
-- check for wakelocks that could be cleaned up.
-- Kill wakelocks after 90s instead of 300
-- tcp: fastopen: Enable support for TCP fast open when serving
-- sched: limit task iterations
-- fix power service version from libpowermgr
-- Upstream to 4.4.214
-- Enable advanced tcp 
+- drm: Expose high brightness mode (HBM) status
+- turn on VDSO +  VDSO  32bit
+- techpack: Include bolero
