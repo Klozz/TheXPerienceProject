@@ -1,3 +1,7 @@
-- drm: Expose high brightness mode (HBM) status
-- turn on VDSO +  VDSO  32bit
-- techpack: Include bolero
+- revert "drm: Expose high brightness mode (HBM) status"
+- Optimized Console FrameBuffer
+- Align to cache and preload
+- optimized strrchr
+- arm64: Enable dcache word access
+- optimized memcpy and memmove
+- dm-crypt: increase threads
