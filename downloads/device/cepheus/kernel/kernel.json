@@ -6,7 +6,7 @@
     "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/cepheus/4.14.170-Yuki-Kernel-Mi-9-2020-02-17.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/cepheus/kernel/changelog.txt",
     "date": "2020-02-17",
-    "sha1sum": "01fce71829fa06918834f9ffac8d3254bc2909fc"
+    "sha1": "01fce71829fa06918834f9ffac8d3254bc2909fc"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"

@@ -6,7 +6,7 @@
     "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/davinci/4.14.117-Yuki-Kernel-Redmi-K20-Mi-9T-2020-02-23.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/davinci/kernel/changelog.txt",
     "date": "2020-02-23",
-    "sha1sum": "d226e83e96d04f70cff01b1bc812d1c94a722af4"
+    "sha1": "d226e83e96d04f70cff01b1bc812d1c94a722af4"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"

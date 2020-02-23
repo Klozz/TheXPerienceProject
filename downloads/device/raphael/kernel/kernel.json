@@ -6,7 +6,7 @@
     "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/raphael/4.14.170-Yuki-Kernel-Redmi-K20-PRO-Mi-9T-PRO-2020-02-17.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/raphael/kernel/changelog.txt",
     "date": "2020-02-17",
-    "sha1sum": "b04f62035a12ebe23918cccf398aefa44f13f7bb"
+    "sha1": "b04f62035a12ebe23918cccf398aefa44f13f7bb"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"

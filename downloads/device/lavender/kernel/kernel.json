@@ -6,7 +6,7 @@
     "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/lavender/4.4.214-Yuki-Kernel-Redmi-Note-7-2020-02-19.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/lavender/kernel/changelog.txt",
     "date": "2020-02-19",
-    "sha1sum": "fddf460448570efe1846304f40c7e94015b8ed29"
+    "sha1": "fddf460448570efe1846304f40c7e94015b8ed29"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
