@@ -1,9 +1,3 @@
-- drm: msm: Extend qcom drm notifier
-- partial:drm: msm: Add fod hbm node
-- input: fingerprint: goodix_ta: Use qcom drm notifier
-- input: touchscreen: gt9886: Remove backlight notifier callback
-- input: touchscreen: gt9886: Use qcom drm notifier
-- fix drm changes for fod in new source (those chages was tracked from outdated one)
-- Merge tag 'LA.UM.8.9.r1-08100-SM6xx.0' for techpack audio and data
-- Merge CAF tag LA.UM.8.9.r1-04400-SM6xx.0 in the kernel
-- Disable Android Verified Boot
+- Increase Threads for DM-Crypt
+- Aling to cache and preloads strcmp
+- Merge tag LA.UM.7.2.r3-00500-sdm660.0 
