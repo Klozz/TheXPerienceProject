@@ -1,6 +1,11 @@
-- Optimized Console FrameBuffer
-- arm64: Enable dcache word access
-- optimized memcpy and memmove
-- Upstream to 4.14.171
-- dm-crypt: increase threads
-- AnyKernel3 updates
+- use power efficient in some parts like qcacld-3.0
+- use kmem_cache in some parts
+- scatterlist: Don't allocate sg lists using __get_free_page
+- msm: kgsl: Don't allocate memory dynamically for temp command buffers
+- msm: kgsl: Avoid dynamically allocating small command buffers
+- cpu-boost: Rework scheduling setup
+- cpu-boost: Bind to LITTLE cpus and reduce RT prio
+- cpu-boost: Rework scheduling setup too for powerkey boost
+
+Note:
+ ** Let me know if you get any performance regressions
