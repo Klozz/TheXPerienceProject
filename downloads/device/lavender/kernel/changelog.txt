@@ -1,3 +1,2 @@
-- Increase Threads for DM-Crypt
-- Aling to cache and preloads strcmp
-- Merge tag LA.UM.7.2.r3-00500-sdm660.0 
+- Upstream to 4.4.215
+- Set Westwood as default TCP
