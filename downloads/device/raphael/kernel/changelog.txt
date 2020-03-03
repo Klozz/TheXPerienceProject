@@ -1,11 +1,12 @@
-- use power efficient in some parts like qcacld-3.0
-- use kmem_cache in some parts
-- scatterlist: Don't allocate sg lists using __get_free_page
-- msm: kgsl: Don't allocate memory dynamically for temp command buffers
-- msm: kgsl: Avoid dynamically allocating small command buffers
-- cpu-boost: Rework scheduling setup
-- cpu-boost: Bind to LITTLE cpus and reduce RT prio
-- cpu-boost: Rework scheduling setup too for powerkey boost
+- revert use kmem_cache in some parts
+- revert scatterlist: Don't allocate sg lists using __get_free_page
+- revert msm: kgsl: Don't allocate memory dynamically for temp command buffers
+- revert msm: kgsl: Avoid dynamically allocating small command buffers
+- and some other perf changes
+- Upstream to 4.14.172
+- enable vdso (I hope this time works fine :) )
 
 Note:
- ** Let me know if you get any performance regressions
+ ** Since i dont have raphael or cepheus I can't do a proper fix
+    for UI freezes under MIUI roms so i revert those changes
+    hoping this will solve the problems caused.
