@@ -1,12 +1,3 @@
-- revert use kmem_cache in some parts
-- revert scatterlist: Don't allocate sg lists using __get_free_page
-- revert msm: kgsl: Don't allocate memory dynamically for temp command buffers
-- revert msm: kgsl: Avoid dynamically allocating small command buffers
-- and some other perf changes
-- Upstream to 4.14.172
-- enable vdso (I hope this time works fine :) )
-
-Note:
- ** Since i dont have raphael or cepheus I can't do a proper fix
-    for UI freezes under MIUI roms so i revert those changes
-    hoping this will solve the problems caused.
+- Upstream to 4.14.173
+- Merge tag 'LA.UM.8.1.r1-13500-sm8150.0'
+- Merge tag 'LA.UM.8.1.r1-14300-sm8150.0'
