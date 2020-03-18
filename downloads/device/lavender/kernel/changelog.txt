@@ -1,4 +1,1 @@
-- Remove cache preloading
-- Remove memory optimizations
-**Note:**
- - seems causing problems with Xiaomi (shitty implementation in MIUI rom) Memory optimization .
+- Hotfix

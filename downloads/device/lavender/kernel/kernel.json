@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v37Δ",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/lavender/4.4.216-Yuki-Kernel-Redmi-Note-7-2020-03-13.zip/download",
+    "version": "v37.1Δ",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/lavender/4.4.216-Yuki-Kernel-Redmi-Note-7-2020-03-18.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/lavender/kernel/changelog.txt",
-    "date": "2020-03-13",
-    "sha1": "2647466c5c37e4fd02246a7bd2cd6d3270c50f46"
+    "date": "2020-03-18",
+    "sha1": "c4c9221f7ee4ea79dec5a628168d2b991ae4354d"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
