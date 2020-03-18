@@ -1,3 +1,4 @@
-- Upstream to 4.4.216
-- Less changes to my Energy model (I was testing them almost 15 days)
-- Merge tag 'LA.UM.7.2.r1-08500-sdm660.0'
+- Remove cache preloading
+- Remove memory optimizations
+**Note:**
+ - seems causing problems with Xiaomi (shitty implementation in MIUI rom) Memory optimization .
