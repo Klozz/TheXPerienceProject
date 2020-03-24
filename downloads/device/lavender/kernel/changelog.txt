@@ -3,6 +3,6 @@
 - power_supply: Fix unbalanced the power supplies
 - Implement a poor man's pocket mode based on dianlujitao implementation for jason
 - ion: avoid allocate high order of pages in system heap pools
- -- Test: on lavender, capture multiple HDR+ and phone doesn't freeze
- -- Without this after 5~8 captures the phone can't take more photos
+ - [*] Test: on lavender, capture multiple HDR+ and phone doesn't freeze
+ - [*] Without this after 5~8 captures the phone can't take more photos
 - vidc: Increase minimum input buffer count for VP9 decode (from LA.UM.8XXXX)
