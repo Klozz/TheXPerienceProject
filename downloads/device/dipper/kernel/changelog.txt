@@ -15,6 +15,6 @@
 - add backlight min options
 - More changes under the visible things
 - Use io_schedule_timeout instead of io_schedule
-- and moard!!!!
+- and moar!!!!
 
 Note: Based on Lineage 17 kernel

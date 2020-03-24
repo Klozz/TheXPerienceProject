@@ -1,8 +1,20 @@
-- Upstream to 4.4.217
-- usb: pd: qpnp-pdphy: Switch to hrtimer-based wait
-- power_supply: Fix unbalanced the power supplies
-- Implement a poor man's pocket mode based on dianlujitao implementation for jason
-- ion: avoid allocate high order of pages in system heap pools
- * Test: on lavender, capture multiple HDR+ and phone doesn't freeze
- * Without this after 5~8 captures the phone can't take more photos
-- vidc: Increase minimum input buffer count for VP9 decode (from LA.UM.8XXXX)
+- Initial beta for dipper
+- Dynamic SchedTune Boost
+- boeffla_wl_blocker
+- disable crc check
+- Slimbus: Increase clock gear
+- Optimized Memory,
+- Wait 1 second to turn off a cpu
+- Short Timeuot for stoping process
+- reduce autosuspend delay
+- Optimize framebuffer
+- thermal: increase thermal trips
+- Optmized ShedUtil
+- Track SchedAlessa from Vince (4.9 kernel) please report posible bugs from sched alessa
+- don't disable cpuidle when entering suspend
+- add backlight min options
+- More changes under the visible things
+- Use io_schedule_timeout instead of io_schedule
+- and moar!!!!
+
+Note: Based on Lineage 17 kernel
