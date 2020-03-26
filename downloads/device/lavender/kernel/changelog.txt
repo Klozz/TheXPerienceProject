@@ -1,6 +1,8 @@
-- Initial beta for polaris
-- Same as dipper
-
-If you like my work and want to
-help with donations (to get this device)
-paypal.me/TheXPerienceProject
+- Upstream to 4.4.217
+- usb: pd: qpnp-pdphy: Switch to hrtimer-based wait
+- power_supply: Fix unbalanced the power supplies
+- Implement a poor man's pocket mode based on dianlujitao implementation for jaso
+- ion: avoid allocate high order of pages in system heap pool
+ * Test: on lavender, capture multiple HDR+ and phone doesn't freeze
+ * Without this after 5~8 captures the phone can't take more photos	
+- vidc: Increase minimum input buffer count for VP9 decode (from LA.UM.8XXXX)
