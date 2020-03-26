@@ -1,0 +1,14 @@
+
+{
+  "kernel": {
+    "name": "Yuki Kernel",
+    "version": "v,
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/polaris/4.9.217-Yuki-Kernel-Mi-MIX-2S-2020-03-26.zip/download",
+    "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/polaris/kernel/changelog.txt",
+    "date": "2020-03-26",
+    "sha1": "7f4c425740b11c102eaeb73f49ef7225971bb4a0"
+  },
+  "support": {
+    "link": "https://t.me/Yuki_Kernel"
+  }
+}

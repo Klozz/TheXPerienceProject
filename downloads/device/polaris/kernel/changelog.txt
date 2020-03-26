@@ -1,0 +1,2 @@
+- Initial beta for polaris
+- Same as dipper
