@@ -1,8 +1,13 @@
-- Upstream to 4.4.217
-- usb: pd: qpnp-pdphy: Switch to hrtimer-based wait
-- power_supply: Fix unbalanced the power supplies
-- Implement a poor man's pocket mode based on dianlujitao implementation for jason
-- ion: avoid allocate high order of pages in system heap pool
- * Test: on lavender, capture multiple HDR+ and phone doesn't freeze
- * Without this after 5~8 captures the phone can't take more photos	
-- vidc: Increase minimum input buffer count for VP9 decode (from LA.UM.8XXXX)
+- msm: mdss: Power on display asynchronously as early as possible 
+- msm: mdss: Boost DDR bus when committing a new frame
+- Don't cache panel timmings
+- soc: qcom: watchdog_v2: Fix memory leaks when memory_dump_v2 isn't built
+- Boost CPUBW when needed
+- Boost DDR when new frame is commited (this reduce janks)
+- add wireward
+- ANDROID: sdcardfs: Alloc memory only when needed in __sdcardfs_lookup()
+- binder: fix incorrect cmd to binder_stat_br
+- fib_rules: Fix payload calculation
+- binder: Import from android-4.19-q branch
+- build with clang 10.0.5
+
