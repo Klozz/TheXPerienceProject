@@ -1,13 +1,2 @@
-- msm: mdss: Power on display asynchronously as early as possible 
-- msm: mdss: Boost DDR bus when committing a new frame
-- Don't cache panel timmings
-- soc: qcom: watchdog_v2: Fix memory leaks when memory_dump_v2 isn't built
-- Boost CPUBW when needed
-- Boost DDR when new frame is commited (this reduce janks)
-- add wireward
-- ANDROID: sdcardfs: Alloc memory only when needed in __sdcardfs_lookup()
-- binder: fix incorrect cmd to binder_stat_br
-- fib_rules: Fix payload calculation
-- binder: Import from android-4.19-q branch
-- build with clang 10.0.5
+- Upstream to 4.4.218
 
