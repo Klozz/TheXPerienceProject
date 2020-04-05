@@ -1,6 +1,1 @@
-- Initial beta for polaris
-- Same as dipper
-
-If you like my work and want to
-help with donations (to get this device)
-paypal.me/TheXPerienceProject
+- Upgrade from 4.9.217 to 4.9.218
