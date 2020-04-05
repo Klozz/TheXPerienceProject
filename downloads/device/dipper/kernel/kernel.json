@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v1.3α",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/dipper/4.9.217-Yuki-Kernel-Mi-8-2020-03-24.zip/download",
+    "version": "v1.6α",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/dipper/4.9.218-Yuki-Kernel-Mi-8-2020-04-05.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/dipper/kernel/changelog.txt",
-    "date": "2020-03-24",
-    "sha1": "ca978a5d1cf6dec9ccdcb146c65f361af6f43b76"
+    "date": "2020-04-05",
+    "sha1": "cf5bab53ecb6d6c5a201a64af924bfaf66d55028"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
