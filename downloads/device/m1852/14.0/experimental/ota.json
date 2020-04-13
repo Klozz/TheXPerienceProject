@@ -72,5 +72,14 @@
 		"fileTimestamp": 1586514058,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/m1852/14/experimental/xperience-14.0.0-20200410-EXPERIMENTAL-m1852-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200413-EXPERIMENTAL-m1852-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "875129233",
+		"filemd5": "e7669b1b9536d7620e2acff483b75e4a",
+		"fileTimestamp": 1586794907,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/m1852/14/experimental/xperience-14.0.0-20200413-EXPERIMENTAL-m1852-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
