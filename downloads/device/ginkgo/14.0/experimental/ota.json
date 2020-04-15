@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "938189056",
+		"filemd5": "562476a3d97b5db43ed2336f1a886e4a",
+		"fileTimestamp": 1586941782,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/ginkgo/14/experimental/xperience-14.0.0-20200415-EXPERIMENTAL-ginkgo-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200415-EXPERIMENTAL-ginkgo-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "938189056",
+		"filemd5": "562476a3d97b5db43ed2336f1a886e4a",
+		"fileTimestamp": 1586941782,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/ginkgo/14/experimental/xperience-14.0.0-20200415-EXPERIMENTAL-ginkgo-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
