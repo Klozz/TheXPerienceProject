@@ -1,2 +1,4 @@
-- Upgrade to 4.14.176
-- Merge tag 'LA.UM.8.1.r1-14700-sm8150.0'
+- Upstream to 4.4.219
+- Another change in the energy model
+  Reduce power consuption in gold cluster
+  give more power "a little" to silver cluster
