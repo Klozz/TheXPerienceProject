@@ -1,1 +1,4 @@
-- Upgrade from 4.9.217 to 4.9.218
+- Upgrade to 4.9.219
+- Merge tag 'LA.UM.8.3.r1-07600-sdm845.0' for Kernel techpack and Wifi drivers
+- Revert "drm/msm: change CSC matrix selection logic for CDM block"
+- Revert "drm/msm: add YUV format support"
