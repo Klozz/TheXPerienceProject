@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "939908469",
+		"filemd5": "1fc0849992d2e6902f2623cd983f8928",
+		"fileTimestamp": 1587401943,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/ginkgo/14/nightly/xperience-14.0.0-20200420-NIGHTLY-ginkgo-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200420-NIGHTLY-ginkgo-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "939908469",
+		"filemd5": "1fc0849992d2e6902f2623cd983f8928",
+		"fileTimestamp": 1587401943,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/ginkgo/14/nightly/xperience-14.0.0-20200420-NIGHTLY-ginkgo-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
