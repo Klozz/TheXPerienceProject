@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "1041092968",
+		"filemd5": "ff7badd93693f308fd26f6b44b4a7964",
+		"fileTimestamp": 1587815466,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/davinci/14/nightly/xperience-14.0.0-20200425-NIGHTLY-davinci-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200425-NIGHTLY-davinci-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "1041092968",
+		"filemd5": "ff7badd93693f308fd26f6b44b4a7964",
+		"fileTimestamp": 1587815466,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/davinci/14/nightly/xperience-14.0.0-20200425-NIGHTLY-davinci-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
