@@ -1,1 +1,17 @@
-- Initial pixel 2/XL
+- arm64: Allow IPI_WAKEUP to be used outside of the ACPI parking protocol
+- cpuidle: Use IPI_WAKEUP instead of IPI_CALL_FUNC to wake CPUs
+- dm-crypt: increase threads
+- random: Use /dev/urandom instead of /dev/random
+- msm: vidc: kill opening/closing video instance logspamg
+- char: mem: Link /dev/random to /dev/urandom
+- sched/core: Enable increased load resolution on 64-bit kernels
+- ANDROID: ARM64: smp: disable preempt in backtracing across all cores
+- irq: spurious: Disable IRQ debugging by default
+- thermal: msm_thermal: Remove FIFO scheduling class
+- Add adreno idler
+- crypto: heh - Avoid dynamically allocating memory for keys
+- kernel: Only expose su when daemon is running
+- mm/compaction: Prioritize compaction work
+- Optimize I/O
+- Reduce ntp wakeups
+- Moardsdlkasdlaksdñkasd
