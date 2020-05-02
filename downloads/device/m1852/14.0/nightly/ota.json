@@ -72,5 +72,14 @@
 		"fileTimestamp": 1588255007,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/m1852/14/nightly/xperience-14.0.0-20200430-NIGHTLY-m1852-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200502-NIGHTLY-m1852-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "837341658",
+		"filemd5": "de87591a4eb6c2a180c1685ee53a6200",
+		"fileTimestamp": 1588386624,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/m1852/14/nightly/xperience-14.0.0-20200502-NIGHTLY-m1852-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
