@@ -18,5 +18,14 @@
 		"fileTimestamp": 1587401943,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/ginkgo/14/nightly/xperience-14.0.0-20200420-NIGHTLY-ginkgo-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200505-NIGHTLY-ginkgo-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "1059875510",
+		"filemd5": "395c79c6e3d3bbb8ec3d7e87e4cb8b00",
+		"fileTimestamp": 1588646039,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/ginkgo/14/nightly/xperience-14.0.0-20200505-NIGHTLY-ginkgo-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
