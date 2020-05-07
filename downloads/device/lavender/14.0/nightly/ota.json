@@ -630,5 +630,14 @@
 		"fileTimestamp": 1588505917,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20200503-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200507-NIGHTLY-lavender-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "963245683",
+		"filemd5": "2a7bc08cc3cbe9f846c288af5a047b45",
+		"fileTimestamp": 1588844378,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/nightly/xperience-14.0.0-20200507-NIGHTLY-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
