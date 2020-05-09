@@ -1,3 +1,6 @@
-- Goodix: Use Qcom DRM notifier
-- Upstream to 4.14.178
-- Convert some xiaomi DRM to qcom drm notifier
+- Merge tag 'LA.UM.8.1.r1-14900-sm8150.0'
+- Upstream to 4.14.179
+
+
+Note: Maybe the FOD will never work on new versions of miui.
+      I still release Upstreams for those who still want to use the kernel.
