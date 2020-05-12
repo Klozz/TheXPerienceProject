@@ -1,0 +1,5 @@
+- Based in android-msm-bonito-4.9-r-preview-4
+- Removed AVB
+- Wifi driver from android-10.0.0_r0.62
+- Audio from android-msm-bonito-4.9-r-preview-4
+- build prebuilt touch drivers

@@ -1,0 +1,14 @@
+
+{
+  "kernel": {
+    "name": "Yuki Kernel",
+    "version": "v1.0α",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/bonito/4.9.210-Yuki-Kernel--2020-05-12.zip/download",
+    "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/bonito/kernel/changelog.txt",
+    "date": "2020-05-12",
+    "sha1": "5140b39e2c9be0ad806c9358246c1b830ac74f78"
+  },
+  "support": {
+    "link": "https://t.me/Yuki_Kernel"
+  }
+}
