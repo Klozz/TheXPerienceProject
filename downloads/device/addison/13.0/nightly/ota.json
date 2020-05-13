@@ -446,5 +446,14 @@
 		"fileTimestamp": 1588765807,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/addison/13/nightly/xperience-13.0.0-20200506-NIGHTLY-addison.zip/download",
 		"version": "13.0"
+	},
+	{
+		"file": "xperience-13.0.0-20200513-NIGHTLY-addison.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "815189484",
+		"filemd5": "f422d435e4793062b7a8ecb3dd5f8e1b",
+		"fileTimestamp": 1589351911,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/addison/13/nightly/xperience-13.0.0-20200513-NIGHTLY-addison.zip/download",
+		"version": "13.0"
 	}
  ]}
