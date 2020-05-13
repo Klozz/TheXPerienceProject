@@ -1,20 +1,5 @@
-- Based on TARKZiM kernel so credtis to him.
-- Fix Screen Burning
-- Avoid VLA's
-- SchedAlessa Import
-- Disable some trace's
-- only wake up the gpu when the ioctl detects a touch input
-- use power efficient workqueues where possible
-- Enable ULP's
-- Reduce ntp wakeups
-- use fast multiplier
-- Enable Jump label and add some changes for it
-- optimize VMAlloc
-- Update LZ4
-- Enable ZSTD and enable in ZRAM
-- Add automatic compaction mechanism
-- Add agile sd tcp
-- add boeffla wakelock blocker
-- And more...
-
-**Only tested on XPerience 14 experimental build **
+- Merge tag 'LA.UM.8.1.r1-13500-sm8150.0'
+- Merge tag 'LA.UM.8.1.r1-14300-sm8150.0'
+- Merge tag 'LA.UM.8.1.r1-14500-sm8150.0'
+- Merge tag 'LA.UM.8.1.r1-14700-sm8150.0'
+- Merge tag 'LA.UM.8.1.r1-14900-sm8150.0'
