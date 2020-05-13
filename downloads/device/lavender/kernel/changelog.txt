@@ -1,1 +1,6 @@
-- Upstream to 4.4.222
+- mark more IRQ as performance critical
+- Optimize Strings
+- upstream to 4.4.233
+- Mark kthreads as performance critical
+- Mark PM QOS as performance critical
+- convert some subsystems to use power efficient workqueues
