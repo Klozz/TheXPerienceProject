@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v1.0α",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/bonito/4.9.210-Yuki-Kernel-Pixel-3a-XL-2020-05-12.zip/download",
+    "version": "v1.2α",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/bonito/4.9.210-Yuki-Kernel-Pixel-3a-XL-2020-05-15.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/bonito/kernel/changelog.txt",
-    "date": "2020-05-12",
-    "sha1": "af0b05323cc1c1851a3a475526ab228b9bc37810"
+    "date": "2020-05-15",
+    "sha1": "8cd5764eb2202a63c7f6050cd89459045224ab4f"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"

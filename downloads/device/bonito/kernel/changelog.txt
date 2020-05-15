@@ -1,5 +1,8 @@
-- Based in android-msm-bonito-4.9-r-preview-4
-- Removed AVB
-- Wifi driver from android-10.0.0_r0.62
-- Audio from android-msm-bonito-4.9-r-preview-4
-- build prebuilt touch drivers
+- soc: qcom: watchdog_v2: Fix memory leaks when memory_dump_v2 isn't built
+- Fix compile errors when debugfs is disabled
+- msm_bus: Don't enable QoS clocks when none are present
+- Enable display power-saving features
+- Set GPU idle timeout to 64 ms
+- Wake GPU upon receiving an ioctl rather than upon touch input
+- kgsl: Remove POPP
+- Mark the bridge-enable kthread as performance critical
