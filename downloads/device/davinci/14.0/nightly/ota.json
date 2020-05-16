@@ -27,5 +27,14 @@
 		"fileTimestamp": 1588251412,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/davinci/14/nightly/xperience-14.0.0-20200430-NIGHTLY-davinci-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200516-NIGHTLY-davinci-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "663373107",
+		"filemd5": "109696f05a971ee125af3eaa952c6179",
+		"fileTimestamp": 1589643372,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/davinci/14/nightly/xperience-14.0.0-20200516-NIGHTLY-davinci-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
