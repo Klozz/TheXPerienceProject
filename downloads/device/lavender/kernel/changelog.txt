@@ -1,6 +1,4 @@
-- mark more IRQ as performance critical
-- Optimize Strings
-- upstream to 4.4.233
-- Mark kthreads as performance critical
-- Mark PM QOS as performance critical
-- convert some subsystems to use power efficient workqueues
+- CLANG 11
+- LTO
+- Added HDR10 support check with DRM info
+- upstreamed to 4.4.224
