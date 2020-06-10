@@ -1,0 +1,14 @@
+
+{
+  "kernel": {
+    "name": "Yuki Kernel",
+    "version": "v1.4α",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/rmx1921/4.9.206-Yuki-Kernel-Realme-XT-2020-06-10.zip/download",
+    "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/rmx1921/kernel/changelog.txt",
+    "date": "2020-06-10",
+    "sha1": "0c06c1ff4784902725226bcc128130214ef38709"
+  },
+  "support": {
+    "link": "https://t.me/Yuki_Kernel"
+  }
+}
