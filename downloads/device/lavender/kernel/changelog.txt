@@ -1,8 +1,1 @@
-- Upstream to 4.4.225
-- zpool: add compaction api
-- zsmalloc: Add compaction callbacks
-- zram: use common zpool interface (Update zram driver to use common zpool API instead of calling
-  zsmalloc)
-- Update z3fold
-- use z3fold as zRAM default allocator instead of zsmalloc
-- Use clang 11.0.1
+- upstream to 4.4.226
