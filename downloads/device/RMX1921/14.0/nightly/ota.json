@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "966314612",
+		"filemd5": "9926eaf0a9b635d8f460a46fc58ad2f4",
+		"fileTimestamp": 1591930823,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/RMX1921/14/nightly/xperience-14.0.0-20200612-NIGHTLY-RMX1921-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200612-NIGHTLY-RMX1921-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "966314612",
+		"filemd5": "9926eaf0a9b635d8f460a46fc58ad2f4",
+		"fileTimestamp": 1591930823,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/RMX1921/14/nightly/xperience-14.0.0-20200612-NIGHTLY-RMX1921-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
