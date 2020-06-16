@@ -1,1 +1,14 @@
-- Fixed hot reboots?
+-  fair: change bias_to_prev_cpu heuristic
+- cpuidle: don't disable cpuidle when entering suspend
+- run kgsl-workqueue as a high prio wq
+- crypto: acomp - add asynchronous compression api
+- crypto: acomp - add driver-side scomp interface
+- crypto: acomp - add support for lz4 via scomp
+- crypto: acomp - add support for lz4hc via scomp
+- sched: Enable TTWU_QUEUE as a sched feature.
+- msm: msm_bus: Don't enable QoS clocks when none are present
+- drop_caches: drop pagecaches on screen-off
+- Wait 1 second to turn off a cpu
+- Short Timeuot for stoping process
+- Lock initial TCP window size to 64k
+- Improve I/O latency
