@@ -1,8 +1,1 @@
-- add exfat driver 2.2.0-3arter97
-- Build modules inline with kernel
-- Enable VDSO compat
-- BFQ
-- Soundcontrol
-- Klapse
-- Enable CLANG LTO & CFI
-- more
+- Fixed hot reboots?
