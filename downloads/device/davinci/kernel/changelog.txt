@@ -1,6 +1,1 @@
-- Fod changes from Paranoid Quartz
-- Track Sched changes from vantom (Used in quartz kernel)
-- Optimized frame buffer
-- Import optimized memory, strchrr, string, strcpy etc
-- optimize memmove
-- Enable compat vDSO
+- Fixed hot reboots?
