@@ -54,5 +54,14 @@
 		"fileTimestamp": 1593001306,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/platina/14/nightly/xperience-14.0.0-20200624-NIGHTLY-platina-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200629-NIGHTLY-platina-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "899984526",
+		"filemd5": "6a2b681e5c815b31748e488d7524c443",
+		"fileTimestamp": 1593412366,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/platina/14/nightly/xperience-14.0.0-20200629-NIGHTLY-platina-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
