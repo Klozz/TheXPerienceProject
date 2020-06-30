@@ -1,1 +1,5 @@
-- Revert camera changes from caf
+- Upstream to 4.14.186
+- Builded with Proton clang
+- Enabled LTO , THINLTO, LLVMPOLLY
+- Enable LSE atomics
+- Merge LA.UM.8.1.r1-15100-sm8150.0 tag
