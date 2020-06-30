@@ -1,10 +1,12 @@
-- upstream to 4.4.227
-- fix issues with dts eagle
-- use ktime_get_ns() instead of sched_clock()
-- Backported to 4.4: Introduce a legacy Energy Model loading driver (to use newer or old EM)
-- Backported to 4.4: legacy_em_driver: Add support for freq-power EMs
-- Backported to 4.4: Reference the Energy Model of CPUs when available
-- Backported to 4.4: Introduce an energy estimation helper function
-- Backported to 4.4: Select an energy-efficient CPU on task wake-up
-- Backported to 4.4: Make the EAS path aware of prefer-idle
-- power_supply_core:Classify BMS as battery
+- Disable legacy ipav2 we have ipav3 core
+- Builded with Proton clang
+- lowmemorykiller: consider unevictable pages
+- diag: dci: Synchronize dci mempool buffers alloc and free
+- LLVMPOLLY
+- Upstream to 4.4.228
+- arm64: percpu: Fix LSE implementation of value-returning pcpu atomics
+- crypto: msm: update QTI crypto drivers for msm-4.4
+- crypto: qcedev: Fix out of memory issue
+- drivers: hwmon: Fix compilation errors in ADC for kernel 4.9 (backport)
+- msm: adsprpc: Fix array index underflow problem
+- soc: qcom: Reset string table index for each dump collection request
