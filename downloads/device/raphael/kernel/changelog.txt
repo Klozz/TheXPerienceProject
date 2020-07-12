@@ -1,5 +1,3 @@
-- Upstream to 4.14.185
-- Implement FOD changes credits to Ayrton990, Laulan56 ,sekaiacg
-- Fix AOD fod credits to Ayrton990
-- some changes
-- Mi 9T PRO - Redmi k20 PRO fod changes should work
+- Upstream to from 4.14.185->188
+- Merge tag 'LA.UM.8.1.r1-15400-sm8150.0'
+- Merge tag 'LA.UM.8.9.r1-09600-SM6xx.0'
