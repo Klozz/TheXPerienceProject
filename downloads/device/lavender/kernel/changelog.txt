@@ -1,12 +1,1 @@
-- Disable legacy ipav2 we have ipav3 core
-- Builded with Proton clang
-- lowmemorykiller: consider unevictable pages
-- diag: dci: Synchronize dci mempool buffers alloc and free
-- LLVMPOLLY
-- Upstream to 4.4.228
-- arm64: percpu: Fix LSE implementation of value-returning pcpu atomics
-- crypto: msm: update QTI crypto drivers for msm-4.4
-- crypto: qcedev: Fix out of memory issue
-- drivers: hwmon: Fix compilation errors in ADC for kernel 4.9 (backport)
-- msm: adsprpc: Fix array index underflow problem
-- soc: qcom: Reset string table index for each dump collection request
+- upstream from 4.4.228->230
