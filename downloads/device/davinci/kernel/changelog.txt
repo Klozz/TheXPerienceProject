@@ -1,1 +1,1 @@
-- Fixed hot reboots?
+- misc changes
