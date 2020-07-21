@@ -1,5 +1,6 @@
-- Upstream to 4.14.186
-- Builded with Proton clang
-- Enabled LTO , THINLTO, LLVMPOLLY
-- Enable LSE atomics
-- Merge LA.UM.8.1.r1-15100-sm8150.0 tag
+- checkout binder to 4.19
+- UNMAP_KERNEL_AT_EL0
+- Upstream from 4.14.186->188
+- Misc changes
+- Hot reboot should be fixed now
+- track from quartz kernel (aospa) tianma burn fix
