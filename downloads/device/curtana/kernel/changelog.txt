@@ -1,1 +1,8 @@
-- Initial release
+Curtana :
+- Audio Fixed
+- Wifi fixed
+- Hot reboot and some crash fixed
+- adjust Kthreads
+- ZRAM in LZ4
+- RCU optimized
+- bunch of optimizations
