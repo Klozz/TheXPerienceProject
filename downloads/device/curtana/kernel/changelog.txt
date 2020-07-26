@@ -1,8 +1,2 @@
-Curtana :
-- Audio Fixed
-- Wifi fixed
-- Hot reboot and some crash fixed
-- adjust Kthreads
-- ZRAM in LZ4
-- RCU optimized
-- bunch of optimizations
+- Merged 'LA.UM.8.11.r1-02200-NICOBAR.0' tag
+- Added New мαиτнιℓℓα governor in memory of our beloved friend мαиτнιℓℓα.
