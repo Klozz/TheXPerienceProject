@@ -1,3 +1,6 @@
-- Optimize silver cluster  as cortex-A55
-- add  vbswap
-- LTO support
+- Upstreamed to 4.4.231
+- Merged 'LA.UM.7.2.r1-09000-sdm660.0' tag
+- Added New мαиτнιℓℓα governor in memory of our beloved friend мαиτнιℓℓα.
+- fbdev: msm: fix ret value while translating to mdp format
+- diag: dci: Synchronize dci mempool buffers alloc and free
+- msm: adsprpc: Fix array index underflow problem
