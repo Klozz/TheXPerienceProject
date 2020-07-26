@@ -1,1 +1,3 @@
-- upstream from 4.4.228->230
+- Optimize silver cluster  as cortex-A55
+- add  vbswap
+- LTO support
