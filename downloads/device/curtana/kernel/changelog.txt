@@ -1,2 +1,7 @@
-- Merged 'LA.UM.8.11.r1-02200-NICOBAR.0' tag
-- Added New мαиτнιℓℓα governor in memory of our beloved friend мαиτнιℓℓα.
+- Enable vDSO + vDSO COMPAT (32bit)
+- Enable CONFIG_IP_NF_TARGET_TTL
+- Initial intent to support joyeuse
+- Set GPU idle timeout to 64 ms
+- ufs: Remove 10 ms CPU idle latency unvote timeout
+- ufs: Only apply pm_qos to the CPU servicing UFS interrupts
+- defconfig: Disable redundant Spectre variant 2  
