@@ -1,7 +1,5 @@
-- Enable vDSO + vDSO COMPAT (32bit)
-- Enable CONFIG_IP_NF_TARGET_TTL
-- Initial intent to support joyeuse
-- Set GPU idle timeout to 64 ms
-- ufs: Remove 10 ms CPU idle latency unvote timeout
-- ufs: Only apply pm_qos to the CPU servicing UFS interrupts
-- defconfig: Disable redundant Spectre variant 2  
+- Remove unused clang flags removed in clang 3.5+
+- Allow Clang to merge globals when DLKM support is disabled
+- Enable LLVM's polyhedral loop optimizer
+- Use CLANG 12.0
+- Fixes for clang 12
