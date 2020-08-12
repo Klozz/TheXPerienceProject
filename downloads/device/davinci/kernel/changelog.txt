@@ -1,5 +1,1 @@
-[*] upstream 4.14.193
-[*] Import binder 4.19
-[*] Merge tag 'LA.UM.8.1.r1-15600-sm8150.0'
-[*] exec: Add node tampering blacklist function
-[*]  arm64: vdso32: Fix '--prefix=' value for newer versions of clang
+[*] Fix AOD 
