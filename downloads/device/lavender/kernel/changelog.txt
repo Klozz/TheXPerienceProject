@@ -1,2 +1,5 @@
-- CLANG 12
-- Upstream to 4.4.232
+[*] Fixed performance degradation
+[*] Fixed slow app loading
+[*] Implement cycle_count_bins needed by new health service in lavender (xperience 14)
+[*] Optimize even more crypto
+[*] Enable some erratum fixes
