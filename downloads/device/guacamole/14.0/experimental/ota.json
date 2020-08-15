@@ -117,5 +117,14 @@
 		"fileTimestamp": 1597451706,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/guacamole/14/experimental/xperience-14.0.0-20200815-EXPERIMENTAL-guacamole-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200815-EXPERIMENTAL-guacamole-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "828186703",
+		"filemd5": "19083de7ab553886bb734af5b7d79a16",
+		"fileTimestamp": 1597466834,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/guacamole/14/experimental/xperience-14.0.0-20200815-EXPERIMENTAL-guacamole-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
