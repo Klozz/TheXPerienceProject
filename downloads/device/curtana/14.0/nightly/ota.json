@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "982333264",
+		"filemd5": "0744cf9c135e3e66f15d371018352d33",
+		"fileTimestamp": 1597881502,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/curtana/14/nightly/xperience-14.0.0-20200819-NIGHTLY-curtana-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200819-NIGHTLY-curtana-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "982333264",
+		"filemd5": "0744cf9c135e3e66f15d371018352d33",
+		"fileTimestamp": 1597881502,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/curtana/14/nightly/xperience-14.0.0-20200819-NIGHTLY-curtana-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
