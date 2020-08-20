@@ -18,5 +18,14 @@
 		"fileTimestamp": 1597827926,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/curtana/14/experimental/xperience-14.0.0-20200819-EXPERIMENTAL-curtana-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200820-EXPERIMENTAL-curtana-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "983881717",
+		"filemd5": "a658e886d263dab61095c4243183146c",
+		"fileTimestamp": 1597899823,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/curtana/14/experimental/xperience-14.0.0-20200820-EXPERIMENTAL-curtana-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
