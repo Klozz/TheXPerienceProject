@@ -27,5 +27,14 @@
 		"fileTimestamp": 1597957897,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/vince/14/experimental/xperience-14.0.0-20200820-EXPERIMENTAL-vince-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200823-EXPERIMENTAL-vince-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "742661768",
+		"filemd5": "816b4327a9707775b82a1e3d2e0eb870",
+		"fileTimestamp": 1598179037,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/vince/14/experimental/xperience-14.0.0-20200823-EXPERIMENTAL-vince-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
