@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "868962626",
+		"filemd5": "259f131b16635c0fbe1951366c9a0ee3",
+		"fileTimestamp": 1598485191,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/beryllium/14/experimental/xperience-14.0.0-20200826-EXPERIMENTAL-beryllium-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200826-EXPERIMENTAL-beryllium-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "868962626",
+		"filemd5": "259f131b16635c0fbe1951366c9a0ee3",
+		"fileTimestamp": 1598485191,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/beryllium/14/experimental/xperience-14.0.0-20200826-EXPERIMENTAL-beryllium-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
