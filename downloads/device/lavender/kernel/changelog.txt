@@ -1,5 +1,4 @@
-[*] Fixed performance degradation
-[*] Fixed slow app loading
-[*] Implement cycle_count_bins needed by new health service in lavender (xperience 14)
-[*] Optimize even more crypto
-[*] Enable some erratum fixes
+[*] Alessa thermal 1.0 alpha
+[*] Upstreamed to 4.4.234
+[*] Thermal pooling 250ms
+[*] Last CLANG 12 http://github.com/llvm/llvm-project
