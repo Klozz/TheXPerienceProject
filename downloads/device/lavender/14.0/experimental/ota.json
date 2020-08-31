@@ -27,5 +27,14 @@
 		"fileTimestamp": 1598873553,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/experimental/xperience-14.0.0-20200831-EXPERIMENTAL-lavender-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200831-EXPERIMENTAL-lavender-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "960069072",
+		"filemd5": "cfc6cbf46b6f4770a46e3fb2ca22b8b7",
+		"fileTimestamp": 1598888594,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/experimental/xperience-14.0.0-20200831-EXPERIMENTAL-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
