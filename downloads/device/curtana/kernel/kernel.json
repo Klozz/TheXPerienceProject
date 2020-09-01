@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v1.4α",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/curtana/4.14.117-Yuki-Kernel-Redmi-Note-9s-Pro-2020-08-02.zip/download",
+    "version": "v1.8α",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/curtana/4.14.117-Yuki-Kernel-Redmi-Note-9s-Pro-2020-09-01.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/curtana/kernel/changelog.txt",
-    "date": "2020-08-02",
-    "sha1": "d61c4ad81e6e5ccad3e54730c13a2c181635f11c"
+    "date": "2020-09-01",
+    "sha1": "01d642ae5c9643ea39b862f096592d09d525b560"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
