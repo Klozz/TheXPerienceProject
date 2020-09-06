@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "NIGHTLY",
+		"filesize": "1072247638",
+		"filemd5": "2eae434ce9191e99c51fbb1fc798425b",
+		"fileTimestamp": 1599434489,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/miatoll/14/nightly/xperience-14.0.0-20200906-NIGHTLY-miatoll-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200906-NIGHTLY-miatoll-Quetzalcoatlite.zip",
+		"romtype": "NIGHTLY",
+		"filesize": "1072247638",
+		"filemd5": "2eae434ce9191e99c51fbb1fc798425b",
+		"fileTimestamp": 1599434489,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/miatoll/14/nightly/xperience-14.0.0-20200906-NIGHTLY-miatoll-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
