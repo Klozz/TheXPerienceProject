@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "1075480234",
+		"filemd5": "03dfd9a231b40a395590f1b274991310",
+		"fileTimestamp": 1599456263,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/miatoll/14/experimental/xperience-14.0.0-20200907-EXPERIMENTAL-miatoll-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200907-EXPERIMENTAL-miatoll-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "1075480234",
+		"filemd5": "03dfd9a231b40a395590f1b274991310",
+		"fileTimestamp": 1599456263,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/miatoll/14/experimental/xperience-14.0.0-20200907-EXPERIMENTAL-miatoll-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
