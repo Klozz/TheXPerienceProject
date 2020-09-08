@@ -1,4 +1,4 @@
-[*] Alessa thermal 1.0 alpha
-[*] Upstreamed to 4.4.234
-[*] Thermal pooling 250ms
-[*] Last CLANG 12 http://github.com/llvm/llvm-project
+[*] Upstream to 4.4.235
+[*] kgsl: Report correct GPU frequency for clock_mhz
+[*] use 1000hz as google recomended
+[*] bug fixes
