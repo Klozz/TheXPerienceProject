@@ -1,3 +1,2 @@
-- Upstream to from 4.14.185->188
-- Merge tag 'LA.UM.8.1.r1-15400-sm8150.0'
-- Merge tag 'LA.UM.8.9.r1-09600-SM6xx.0'
+[*] upstreamed only 4.14.188 -> 4.14.198
+    -- Check https://github.com/android-linux-stable/msm-4.14 for more info
