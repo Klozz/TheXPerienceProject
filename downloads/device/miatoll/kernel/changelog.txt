@@ -1,0 +1,13 @@
+[*] a lot of changes but i will mention some of them
+[*] support Gram, joyeuse,excalibur, miatoll etcc 
+[*] Fixed audio on AOSP roms
+[*] Rebase over LA.UM.8.9.r1-10100-SM6xx.0
+[*] Optimize CRC32
+[*] UFS pm_qos
+[*] use buffer from the stack space
+[*] implement stpcpy 
+[*] expose event streams
+[*] Allocate decoder buffers 
+[*] Fix VLA's
+[*] Improve backwards memmove performance 
+[*] more...
