@@ -1,0 +1,22 @@
+
+	{
+  "folders": [],
+  "files": [{
+		"file": "Dummy",
+		"romtype": "RELEASE",
+		"filesize": "960261151",
+		"filemd5": "92e9d4f7e735251c09cf4b9f50cced20",
+		"fileTimestamp": 1600393971,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/release/xperience-14.0.0-20200918-RELEASE-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20200918-RELEASE-lavender-Quetzalcoatlite.zip",
+		"romtype": "RELEASE",
+		"filesize": "960261151",
+		"filemd5": "92e9d4f7e735251c09cf4b9f50cced20",
+		"fileTimestamp": 1600393971,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/release/xperience-14.0.0-20200918-RELEASE-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
+	}
+ ]}
