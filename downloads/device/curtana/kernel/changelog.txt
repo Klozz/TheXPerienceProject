@@ -1,2 +1,7 @@
-[*] I'm lazy to make a changelog use it
-[*] Perf optimizations bug fixes etc....
+[*] dm-crypt: increase threads
+[*] mm: Introduce kvcalloc()
+[*] treewide: kvzalloc() -> kvcalloc()
+[*] Increase the cgroup limit to 7
+[*] fs: exec: Introduce is_zygote_pid()
+[*] [TESTING] exec: Add node tampering blacklist function
+[*] [TESTING] allow power@2 and perf 2 to tampering blacklist 
