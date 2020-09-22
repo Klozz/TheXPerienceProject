@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "Yuki Kernel",
-    "version": "v2.0β-AOSP",
-    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/miatoll/4.14.117-Yuki-Kernel-Redmi-Note-9s-Pro-PRO-MAX-POCO-M2-Pro-AOSP-2020-09-14.zip/download",
+    "version": "v2.1β-AOSP",
+    "link": "https://sourceforge.net/projects/xperience-aosp/files/Yuki-Kernel/miatoll/4.14.117-Yuki-Kernel-Redmi-Note-9s-Pro-PRO-MAX-POCO-M2-Pro-AOSP-2020-09-22.zip/download",
     "changelog_url": "http://klozz.github.io/TheXPerienceProject/downloads/device/miatoll/kernel/changelog.txt",
-    "date": "2020-09-14",
-    "sha1": "42f867960863f5b0a25d2180a722a807bccc9e02"
+    "date": "2020-09-22",
+    "sha1": "f95b54fdf7f9c09e6641bd4e7fa8e6d079bc7391"
   },
   "support": {
     "link": "https://t.me/Yuki_Kernel"
