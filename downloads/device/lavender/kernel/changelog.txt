@@ -1,4 +1,8 @@
-[*] Upstream to 4.4.235
-[*] kgsl: Report correct GPU frequency for clock_mhz
-[*] use 1000hz as google recomended
-[*] bug fixes
+[*] Rebase kernel over LA.UM.9.2.r1-00900-SDMxx0.0 (R branch)
+[*] Implement EAS again 
+[*] Implement some changes from older kernel 
+[*] Fixed bluetooth crash with Q-R branch 
+[*] Fixed slow Wifi
+[*] some more...
+
+Note: Don't forget to make clean cache =)
