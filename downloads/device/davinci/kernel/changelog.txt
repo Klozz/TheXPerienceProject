@@ -1,11 +1,2 @@
-[*] upstreamed only 4.14.188 -> 4.14.198
-    -- Check https://github.com/android-linux-stable/msm-4.14 for more info
-[*] lib/lzo: implement run-length encoding
-[*] lib/lzo: separate lzo-rle from lzo
-[*] lib/lzo: fast 8-byte copy on arm64
-[*] lib/lzo: fix bugs for very short or empty input
-[*] rslibs changes
-[*] crypto optimize for neon
-[*] kallsyms: lower alignment on ARM  and reduce size a little for ARM64
-[*] block: replace io_schedule with io_schedule_timeout
-[*] Use 1000hz 
+[*] upstream to 4.14.200
+[*] Bug fixes
