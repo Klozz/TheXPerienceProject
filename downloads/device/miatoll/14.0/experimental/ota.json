@@ -45,5 +45,14 @@
 		"fileTimestamp": 1602113811,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/miatoll/14/experimental/xperience-14.0.0-20201007-EXPERIMENTAL-miatoll-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20201008-EXPERIMENTAL-miatoll-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "1078635057",
+		"filemd5": "397b9322f9bec9cf4882244699291dc9",
+		"fileTimestamp": 1602138908,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/miatoll/14/experimental/xperience-14.0.0-20201008-EXPERIMENTAL-miatoll-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
