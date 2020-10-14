@@ -18,5 +18,14 @@
 		"fileTimestamp": 1588935085,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/davinci/14/experimental/xperience-14.0.0-20200508-EXPERIMENTAL-davinci-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20201014-EXPERIMENTAL-davinci-Quetzalcoatlite.zip",
+		"romtype": "EXPERIMENTAL",
+		"filesize": "679290858",
+		"filemd5": "02ee78b4df70d9b762288f21f1463c27",
+		"fileTimestamp": 1602683496,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/davinci/14/experimental/xperience-14.0.0-20201014-EXPERIMENTAL-davinci-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
