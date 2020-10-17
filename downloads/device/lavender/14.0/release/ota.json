@@ -18,5 +18,14 @@
 		"fileTimestamp": 1600393971,
 		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/release/xperience-14.0.0-20200918-RELEASE-lavender-Quetzalcoatlite.zip/download",
 		"version": "14.0"
+	},
+	{
+		"file": "xperience-14.0.0-20201017-RELEASE-lavender-Quetzalcoatlite.zip",
+		"romtype": "RELEASE",
+		"filesize": "971058133",
+		"filemd5": "57b1b3824b964ca0211a8498796c4da7",
+		"fileTimestamp": 1602926679,
+		"filelink": "https://sourceforge.net/projects/xperience-aosp/files/lavender/14/release/xperience-14.0.0-20201017-RELEASE-lavender-Quetzalcoatlite.zip/download",
+		"version": "14.0"
 	}
  ]}
