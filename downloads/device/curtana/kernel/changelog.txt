@@ -1,6 +1,9 @@
-[*] Add cpu set for adsp glink on sdm660
-[*] ARM: dts: msm: Modify memory allocation for diag 
-[*] Disable Android Low Memory Killer and enable Memcg and memcg_swap
-[*] No more versioning (ejem 1.0 2.0 etc) looks uggly 
-[*] Upstream to 4.4.240
-[*] Fix memory leaks
+- Fixed boot on Joyeuse
+- Last xiaomi changes
+- Merge kernel tag LA.UM.8.9.r1-07400-SM6xx.0
+- Wifi driver tag LA.UM.8.9.r1-10600-SM6xx.0
+- Enable PSI monitor
+- Enable LMKD
+- add pidfd
+
+-Premium package update too-
