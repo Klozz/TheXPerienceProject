@@ -1,7 +1,6 @@
-[*] dm-crypt: increase threads
-[*] mm: Introduce kvcalloc()
-[*] treewide: kvzalloc() -> kvcalloc()
-[*] Increase the cgroup limit to 7
-[*] fs: exec: Introduce is_zygote_pid()
-[*] [TESTING] exec: Add node tampering blacklist function
-[*] [TESTING] allow power@2 and perf 2 to tampering blacklist 
+[*] Add cpu set for adsp glink on sdm660
+[*] ARM: dts: msm: Modify memory allocation for diag 
+[*] Disable Android Low Memory Killer and enable Memcg and memcg_swap
+[*] No more versioning (ejem 1.0 2.0 etc) looks uggly 
+[*] Upstream to 4.4.240
+[*] Fix memory leaks
