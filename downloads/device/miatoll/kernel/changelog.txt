@@ -1,15 +1,7 @@
-[*] Rebased over LA.UM.8.9.r1-10600-SM6xx.0
-[*] Merge tag 'LA.UM.8.1.r1-16200-sm8150.0'
-[*] Wifi, Audio tag used LA.UM.8.9.r1-10600-SM6xx.0
-[*] Net Wireward
-[*] Enable PSI monitor
-[*] Add pidfd backport
-[*] Disable LMK
-
-Manthilla governor Is now only for PREMIUM kernel
-
-PREMIUM changes
-[*] Optimize mem managemend
-[*] Fix charging issues
-[*] allow to fast charging via USB
-[*] Bug fixes
+- Rebased over LA.UM.8.9.r1-10600-SM6xx.0
+- Merge tag 'LA.UM.8.1.r1-16200-sm8150.0'
+- Wifi, Audio tag used LA.UM.8.9.r1-10600-SM6xx.0
+- Net Wireward
+- Enable PSI monitor
+- Add pidfd backport
+- Disable LMK
